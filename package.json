@@ -1,0 +1,22 @@
+{
+  "name": "potential-enigma-main-2",
+  "version": "1.0.0",
+  "description": "readmegen",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasefa/module9.git"
+  },
+  "author": "sasefa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasefa/module9/issues"
+  },
+  "homepage": "https://github.com/sasefa/module9#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
